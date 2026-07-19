@@ -1,5 +1,39 @@
-Hi I am kedareswar and i belongs to India
-I am learning python to become an ai engineer 
+
+ Hi now we are writing in the notes.txt file from the filehandling.py python file
+Hello python I am here 
+
+Hello python I am here 
+
+Hello python I am here 
+
+Hello python I am here 
+
+Hello python I am here 
+
+Hello python I am here 
+
+Hello python I am here 
+
+Hello python I am here 
+
+Hello python I am here 
+
+Hello python I am here 
+
+Hello python I am here 
+
+Hello python I am here 
+
+Hello python I am here 
+
+Hello python I am here 
+
+Hello python I am here 
+
+Hello python I am here 
+
+Hello python I am here 
+
 Hello python I am here 
 
 Hello python I am here 
