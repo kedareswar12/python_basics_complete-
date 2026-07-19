@@ -163,8 +163,8 @@ python filename.py
 * [x] String Handling
 * [x] File Handling
 * [x] Exception Handling
-* [ ] Object-Oriented Programming
-* [ ] Modules & Packages
+* [x] Object-Oriented Programming
+* [x] Modules & Packages
 * [ ] Advanced Python
 * [ ] Projects
 
