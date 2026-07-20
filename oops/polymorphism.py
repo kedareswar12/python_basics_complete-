@@ -63,15 +63,32 @@ square = Square(5)
 print_area(rectangle)
 print_area(square)
 
+### Polymorpism with Abstract base class 
 
+### Abstract Base classes are used to define common method for a group of related onjects. They can enforce that derived classes implement particular methods, promoting consistancy across different implementations 
 
+from abc import ABC, abstractmethod
 
+# Abstract class 
+class Vehicle(ABC):
+  @abstractmethod
+  def start_engine(self):
+    pass
 
+# Derived class 1
+class Car(Vehicle):
+  def start_engine(self):
+    return "Car engine started"
+  
+#Derived class 2 
+class MotorCycle(Vehicle):
+  def start_engine(self):
+    return "Motor cycle engine started "
 
+def start_vehicle(vehicle):
+  print(vehicle.start_engine())
+# create the objects of the class
+car  = Car()
+motor_cycle = MotorCycle()
 
-
-
-
-
-
-
+start_vehicle(motor_cycle)
