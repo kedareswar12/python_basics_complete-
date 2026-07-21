@@ -92,3 +92,11 @@ list33 = [1,3,4,5,6,7,4,7,7,8,66,5,4,6,8]
 
 ans1 =list( filter(lambda x : x>5 , list33))
 print(ans1)
+
+
+
+
+
+
+
+
