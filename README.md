@@ -165,7 +165,7 @@ python filename.py
 * [x] Exception Handling
 * [x] Object-Oriented Programming
 * [x] Modules & Packages
-* [ ] Advanced Python
+* [x] Advanced Python
 * [ ] Projects
 
 ---
